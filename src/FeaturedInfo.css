@@ -1,0 +1,37 @@
+.featuredinfo > h1{
+    color: #000000;
+  font-size: 14px;
+  font-weight: 600;
+  text-align: center;
+  line-height: 1.7;
+  max-width: 650px;
+  padding-top: 20px;
+  margin-bottom: 70px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.featuredinfo > p{
+  color:#000000;
+  font-size: 14px;
+  font-weight: 600;
+  text-align: center;
+  line-height: 1.7;
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+@media (max-width: 1024px) {
+
+    .featuredinfo > h1 {
+        font-size: 14px;
+        font-weight: 550;
+        max-width: 350px;
+      }
+    .featuredinfo > p{
+        font-size: 14px;
+        font-weight: 550;
+        max-width: 350px;
+      }
+}
