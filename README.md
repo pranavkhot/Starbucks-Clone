@@ -5,7 +5,7 @@ The **Starbucks Clone** is a React-based web application that replicates the Sta
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b3ab6e61-4a7b-4151-80b9-9bee711f3742" alt="Starbucks Clone Screenshot" width="600"/>
+  <img src="https://github.com/user-attachments/assets/b3ab6e61-4a7b-4151-80b9-9bee711f3742" alt="Starbucks Clone Screenshot" width="100%"/>
 </p>
 
 [Live Demo](https://starbucks-clone-5aa8a.web.app)
